@@ -1,5 +1,5 @@
 # Hi, I'm Jose Mayo! 👋
-
+<!--
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![MayitoPR3's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -12,12 +12,14 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+- 
+-->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
+
+<!--
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
@@ -31,11 +33,10 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
-
+-->
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://twitter.com/mayitopr3)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
