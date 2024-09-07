@@ -1,12 +1,13 @@
 # Hi, I'm Jose Mayo! 👋
 <!--
 Transitioning from a career in sports management and public service to software development, I bring a unique blend of problem-solving, project coordination, and analytical skills. My background in managing complex projects, leveraging data for decision-making, and enhancing organizational visibility complements my technical training in programming. I am eager to apply my foundational programming knowledge and hands-on experience in software development to contribute to innovative projects and drive impactful solutions.
--->
-![MayitoPR3's Stats](https://github-readme-stats.vercel.app/api?username=MayitoPR3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-<!--
-## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+![Jose Mayo's Stats](https://github-readme-stats.vercel.app/api?username=MayitoPR3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+-->
+- 🔭 I'm currently pursuing my Certificate in Foundations of Computer Science and Software Engineering
+<!--
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
