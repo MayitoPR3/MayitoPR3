@@ -1,8 +1,8 @@
 # Hi, I'm Jose Mayo! 👋
 <!--
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Transitioning from a career in sports management and public service to software development, I bring a unique blend of problem-solving, project coordination, and analytical skills. My background in managing complex projects, leveraging data for decision-making, and enhancing organizational visibility complements my technical training in programming. I am eager to apply my foundational programming knowledge and hands-on experience in software development to contribute to innovative projects and drive impactful solutions.
 
-![MayitoPR3's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MayitoPR3's Stats](https://github-readme-stats.vercel.app/api?username=MayitoPR3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
