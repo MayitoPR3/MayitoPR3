@@ -18,7 +18,7 @@ Transitioning from a career in sports management and public service to software 
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,docker,flask)](https://skillicons.dev)
 
 
 <!--
