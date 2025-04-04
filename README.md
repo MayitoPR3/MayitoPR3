@@ -6,8 +6,8 @@ Transitioning from a career in sports management and public service to software 
 
 ## 🚀 About Me
 -->
-- 🔭 I'm currently pursuing my Certificate in Foundations of Computer Science and Software Engineering
-- 🌱 I’m currently learning everything at Holberton Coding School in San Juan, Puerto Rico 
+- 🔭 I recently got my Certificate in Foundations of Computer Science and Software Engineering
+- 🌱 I’m currently working towards my Cyber Security specialization at Holberton Coding School
 <!--
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
