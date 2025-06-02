@@ -1,6 +1,12 @@
 # Hi, I'm Jose Mayo! 👋
 
-Transitioning from a career in sports management and public service to software development, I bring a unique blend of problem-solving, project coordination, and analytical skills. My background in managing complex projects, leveraging data for decision-making, and enhancing organizational visibility complements my technical training in programming. I am eager to apply my foundational programming knowledge and hands-on experience in software development to contribute to innovative projects and drive impactful solutions.
+I’m a Python developer with a certification through Holberton Coding School in San Juan, P.R., currently specializing in Cybersecurity.
+
+I enjoy building backend systems, automating tasks, and exploring the intersection between software development and security.
+
+My projects include REST APIs, automation scripts, and beginner-level security tools. I’m eager to grow as a developer and contribute to meaningful, real-world software—especially in remote and collaborative environments.
+
+Feel free to explore my repositories and reach out if you’d like to connect or collaborate! 🚀
 <!--
 ![Jose Mayo's Stats](https://github-readme-stats.vercel.app/api?username=MayitoPR3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
