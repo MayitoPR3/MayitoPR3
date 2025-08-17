@@ -48,7 +48,7 @@ Feel free to explore my repositories and reach out if you’d like to connect or
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MayitoPR3)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MayitoPR3&theme=github)
 
 
 
