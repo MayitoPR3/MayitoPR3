@@ -24,7 +24,7 @@ Feel free to explore my repositories and reach out if you’d like to connect or
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,rubi,js,html,css,docker,flask,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ruby,js,html,css,docker,flask,sqlite)](https://skillicons.dev)
 
 
 <!--
