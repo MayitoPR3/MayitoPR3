@@ -1,65 +1,95 @@
 # Hi, I'm Jose Mayo! 👋
 
-I’m a Python developer with a certification through Holberton Coding School in San Juan, P.R., currently specializing in Cybersecurity.
+## Software Developer | Cybersecurity Professional | Baseball Technology Enthusiast
 
-I enjoy building backend systems, automating tasks, and exploring the intersection between software development and security.
+I'm a Software Developer and Cybersecurity professional with a strong foundation in Python, backend development, security operations, and automation. I completed the Foundations of Computer Science and Software Engineering program and the Cybersecurity specialization at Holberton School in San Juan, Puerto Rico.
 
-My projects include REST APIs, automation scripts, and beginner-level security tools. I’m eager to grow as a developer and contribute to meaningful, real-world software—especially in remote and collaborative environments.
+My passion lies at the intersection of software engineering, cybersecurity, and data-driven technology. I enjoy building backend applications, automating workflows, developing APIs, and exploring security concepts through hands-on projects and home lab environments.
 
-Feel free to explore my repositories and reach out if you’d like to connect or collaborate! 🚀
-<!--
-![Jose Mayo's Stats](https://github-readme-stats.vercel.app/api?username=MayitoPR3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
 
 ## 🚀 About Me
--->
-- 🔭 I recently got my Certificate in Foundations of Computer Science and Software Engineering
-- 🌱 I’m currently working towards my Cyber Security specialization at Holberton Coding School
-<!--
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
-## My Articles
-- 
--->
+* 🎓 Graduate of Holberton School's Foundations of Computer Science and Software Engineering program
+* 🔐 Completed the Cybersecurity Specialization at Holberton School
+* 🖥️ Building and maintaining a Home SOC using Wazuh, Kali Linux, Ubuntu, and Windows environments
+* ⚾ Passionate about Baseball Analytics and Sports Technology
+* 🐍 Python developer focused on automation, backend systems, and security
+* 🌎 Open to opportunities in Software Development, Cybersecurity, and Sports Technology
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,ruby,js,html,css,docker,flask,sqlite)](https://skillicons.dev)
+---
 
+## 🛠️ Tech Stack
 
-<!--
-## 🌱 Currently Exploring
+[![My Skills](https://skillicons.dev/icons?i=python,ruby,javascript,html,css,flask,docker,sqlite,linux,git,github,vscode)](https://skillicons.dev)
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+### Cybersecurity Tools
 
- ## 🏆 Achievements
+* Wazuh
+* Kali Linux
+* Nmap
+* Burp Suite
+* Metasploit
+* BloodHound
+* John the Ripper
+* Hashcat
+* Wireshark
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+### Development Tools
 
--->
-## 📬 Get in Touch
+* Python
+* Flask
+* Streamlit
+* SQLite
+* Docker
+* Git & GitHub
 
-- Connect with me on [Twitter](https://twitter.com/mayitopr3)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## 🔒 Cybersecurity Experience
 
+Through hands-on labs and projects, I have worked with:
 
+* Security Operations Center (SOC) concepts
+* Network Security Monitoring
+* Vulnerability Assessment
+* Web Application Security Testing
+* Active Directory Security
+* Incident Detection and Response
+* Penetration Testing Fundamentals
+* Log Analysis and Threat Hunting
 
-<!--
+---
 
-Here are some ideas to get you started:
+## 🚧 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Home SOC Lab
+
+Building a Security Operations Center environment using Wazuh, Ubuntu Server, Windows, and Kali Linux to develop practical blue-team skills.
+
+### ⚾ Baseball Analytics Applications
+
+Developing tools that transform baseball data into actionable insights using Python, Streamlit, and data visualization.
+
+### 🤖 Automation & Security Tools
+
+Creating scripts and utilities that automate administrative and security-related tasks.
+
+---
+
+## 📊 GitHub Stats
+
+![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayitoPR3\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayitoPR3\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+* X (Twitter): https://twitter.com/mayitopr3
+* GitHub: https://github.com/MayitoPR3
+
+---
+
+⭐ Thanks for visiting my profile! I'm passionate about technology, cybersecurity, software development, and leveraging data to solve real-world problems.
