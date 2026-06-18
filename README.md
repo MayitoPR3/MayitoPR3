@@ -1,4 +1,4 @@
-# Hi, I'm Jose Mayo! 👋
+# Hi, I'm Jose Mayo Jr.! 👋
 
 ## Software Developer | Cybersecurity Professional | Baseball Technology Enthusiast
 
